@@ -1,0 +1,18 @@
+-c requirements.txt
+bandit
+black
+gpustat
+matplotlib
+mypy
+nltk
+pycodestyle
+pydocstyle
+pylint
+pytest
+pyyaml
+redlock-py
+tornado
+safety
+scipy
+pillow
+wandb
